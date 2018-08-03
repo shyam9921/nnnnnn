@@ -1,3 +1,9 @@
+class mul{
+mul=a*b;
+}
+
+
+
 class{
 add=a+b;
 }
