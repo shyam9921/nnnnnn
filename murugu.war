@@ -1,7 +1,9 @@
 class{
 add=a+b;
 }
-
+class sub{
+sub=a-b,
+}
 
 
 repo1repo1repo1repo1repo1repo1repo1repo1repo1
